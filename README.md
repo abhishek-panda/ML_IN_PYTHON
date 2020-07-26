@@ -13,6 +13,11 @@ pipenv
 5. Removes the environment "pipenv --rm".
 6. Remove all environment dependencies "pipenv uninstall --all"
 
+### Jyputer Notebook in VSCode
+
+1. To create Jyputer notebook in VSCode. Install VSCode Python extension, then press Cmd + Shift + P and start
+   type "Create New Blank Jyputer Notebook".
+
 ## Python tools to learn
 
 1. Numpy
